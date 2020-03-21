@@ -1,2 +1,1 @@
-# SampleChatChannel
-SampleChatChannel
+**FreeCodeCamp**
